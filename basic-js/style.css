@@ -1,0 +1,35 @@
+body {
+    background-color: pink;
+}
+
+.myClass {
+    color: blue;
+    background-color: yellow;
+}
+
+#heading {
+    color: black;
+}
+
+button  {
+    color: blue;
+}
+
+#box {
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+}
+
+.para {
+    background-color: yellow;
+}
+
+.paraClass {
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
+}
+

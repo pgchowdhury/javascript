@@ -1,0 +1,17 @@
+#box {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 3px solid black;
+
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
