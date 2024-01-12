@@ -52,8 +52,7 @@ function getData(dataId, getNewData) { // call
         console.log("data =", dataId);
         if(getNewData){
             getNewData();
-        }
-        
+        }       
     }, 2000);
 }
 
